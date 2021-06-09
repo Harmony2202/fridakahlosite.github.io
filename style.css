@@ -1,0 +1,117 @@
+body {
+	background: #f8eded;
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+}
+
+h1 { color: #776871; 
+	font-family: 'Raleway', sans-serif; 
+	text-align: center;
+font-size: 800%;}
+
+h2 { text-align: left; color: #776871; font-family: 'Raleway', sans-serif;}
+
+h3 { text-align: left; font-family: 'Raleway', sans-serif; color:#776871;
+}
+
+h4 {text-align: center;font-family: 'Raleway', sans-serif; color: #776871; font-size: 250%;}
+h5 {text-align: center;font-family: 'Raleway', sans-serif; color: #776871; font-size: 80%;}
+h6 {text-align: center;font-family: 'Raleway', sans-serif; color: #776871; font-size: 150%; }
+
+ul {text-align: left; font-family: 'Raleway', sans-serif;}
+
+
+.img-galery{
+	border-radius: 20%;
+}
+.img-galery2{border-radius: 0%;}
+
+.fridabanner.jpg {
+	width: 250px;
+	height: 250px;
+	border-radius: 0%;
+}
+
+.framereservezici{
+border: 20px solid #FECEE9;
+	margin:10px auto ;
+	padding: 10px;
+	width: 180px;
+
+}
+
+.frameinformation{
+
+	border: 20px solid #FECEE9;
+	margin:10px auto ;
+	padding: 10px;
+	width: 170px;
+
+}
+
+
+.menu{
+	display: flex;
+	align-items: right;
+	justify-content: space-between;
+	border: 2px;
+	padding: 10px;
+	background-color: white;
+}
+
+.menu2{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border: 2px;
+	padding: 50px;
+	background-color: #F1DEDC;
+}
+
+.menu3{
+ align-items: center;
+ padding: 10px;
+ border: 2px;
+ margin: 10px auto;
+ width: 700px;
+ background-color: #ABC798;
+}
+
+.menu4{align-items: center;
+ padding: 10px;
+ border: 2px;
+ margin: 10px auto;
+ width: 700px;
+ background-color: #F8F8FF;}
+
+.fridalogo.png{
+
+border-radius: 50%
+width:250px;
+object-position: left;
+width:1px; 
+height: 2px;
+
+}
+
+.item{
+
+	margin: 0px 15px;
+	height:30px;
+	border: 10px;
+}
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.link {
+  margin: 10px 30px;
+  color: #9F3442;
+}
+
+.link:hover {
+  color: #458D2E;
+}
+
+.mc_embed_signup{justify-content:center;}

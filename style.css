@@ -21,9 +21,17 @@ li {text-align: left;font-family: 'Raleway', sans-serif; color:black;}
 
 ul {text-align: left; font-family: 'Raleway', sans-serif;}
 
+.my-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: right;
+  object-position: right;
+  background:white;
+}
 
 .img-galery{
 	border-radius: 15%;
+	border: solid ;
 	box-shadow: 10px 10px 10px grey;
 }
 .img-galery2{border-radius: 0%;}

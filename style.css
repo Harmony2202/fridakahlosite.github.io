@@ -16,13 +16,15 @@ h3 { text-align: left; font-family: 'Raleway', sans-serif; color:#776871;
 
 h4 {text-align: center;font-family: 'Raleway', sans-serif; color: #776871; font-size: 250%;}
 h5 {text-align: center;font-family: 'Raleway', sans-serif; color: #776871; font-size: 80%;}
-h6 {text-align: center;font-family: 'Raleway', sans-serif; color: #776871; font-size: 150%; }
+h6 {text-align: left;font-family: 'Raleway', sans-serif; color: #776871; font-size: 150%; }
+li {text-align: left;font-family: 'Raleway', sans-serif; color:black;}
 
 ul {text-align: left; font-family: 'Raleway', sans-serif;}
 
 
 .img-galery{
-	border-radius: 20%;
+	border-radius: 15%;
+	box-shadow: 10px 10px 10px grey;
 }
 .img-galery2{border-radius: 0%;}
 
@@ -113,5 +115,3 @@ height: 2px;
 .link:hover {
   color: #458D2E;
 }
-
-.mc_embed_signup{justify-content:center;}
